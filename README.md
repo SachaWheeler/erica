@@ -4,7 +4,7 @@
 (only need 00:16 – 00:30) https://github.com/game0ver/erica/raw/master/Z-8qS-fdBy4.mp4
  
 2. https://www.youtube.com/watch?v=LgQscL-ialg
-(only need from start to 1:40)
+(only need from start to 1:40) https://github.com/game0ver/erica/raw/master/LgQscL-ialg.mp4
  
 3. https://www.youtube.com/watch?v=v92tWHSUAr
 (only need from start to 1:40)
