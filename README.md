@@ -19,7 +19,7 @@
 (only need from 5:46 - 6:10)
 
 7. https://www.youtube.com/watch?v=HA8gY59pueg
-(only need 32:34 - 33:55) https://github.com/game0ver/erica/blob/master/HA8gY59pueg.mp4
+(only need 32:34 - 33:55) https://github.com/game0ver/erica/raw/master/HA8gY59pueg.mp4
 
 8. https://www.youtube.com/watch?v=xUyYtcv8zhQ
 (only need :18 - :30 and 1:53 - 1:58)
