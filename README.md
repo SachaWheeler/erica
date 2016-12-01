@@ -10,6 +10,7 @@ result https://github.com/game0ver/erica/raw/master/LgQscL-ialg.mp4
  
 3. https://www.youtube.com/watch?v=v92tWHSUAr
 (only need from start to 1:40)
+result https://github.com/game0ver/erica/raw/master/v92tWHSUAr8.mp4
 
 4. https://www.youtube.com/watch?v=wkqz6j8ZusA
 (only need from 1:32 - 2:20) 
