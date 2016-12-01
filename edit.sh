@@ -38,6 +38,8 @@ ffmpeg -i "1983 - STS-7 Challenger (NASA)-ObHSXfh8p7U.mp4"\
 # 7. https://www.youtube.com/watch?v=HA8gY59pueg
 # (only need 32:34 - 33:55)
 # youtube-dl -f 22 https://www.youtube.com/watch?v=HA8gY59pueg
+ffmpeg -i "PBS Makers Volume 2 3of 6 Women in Space-HA8gY59pueg.mp4"\
+    -ss 00:32:34 -t 00:01:21 -async 1 -c copy HA8gY59pueg.mp4
 
 # 8. https://www.youtube.com/watch?v=xUyYtcv8zhQ
 # (only need :18 - :30 and 1:53 - 1:58)
