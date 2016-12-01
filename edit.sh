@@ -44,3 +44,5 @@ ffmpeg -i "PBS Makers Volume 2 3of 6 Women in Space-HA8gY59pueg.mp4"\
 # 8. https://www.youtube.com/watch?v=xUyYtcv8zhQ
 # (only need :18 - :30 and 1:53 - 1:58)
 # youtube-dl -f 22 https://www.youtube.com/watch?v=xUyYtcv8zhQ
+ffmpeg -i "Astronaut Sally Ride's Secret Journey-xUyYtcv8zhQ.mp4" -ss 00:00:18 -t 00:00:12 -async 1 -c copy xUyYtcv8zhQ.mp4
+ffmpeg -i "Astronaut Sally Ride's Secret Journey-xUyYtcv8zhQ.mp4" -ss 00:01:53 -t 00:00:05 -async 1 -c copy xUyYtcv8zhQ-2.mp4
