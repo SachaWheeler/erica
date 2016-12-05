@@ -35,17 +35,22 @@ results https://github.com/game0ver/erica/raw/master/xUyYtcv8zhQ.mp4 https://git
 --------
 
 
-https://www.youtube.com/watch?v=8H0tFBBsQtI
+1. https://www.youtube.com/watch?v=8H0tFBBsQtI
 (from 4:25 - 5:00... sleeping in space)
+results https://github.com/game0ver/erica/raw/master/8H0tFBBsQtI.mp4
 
-https://www.youtube.com/watch?v=JSbj2EJnrJc
+2. https://www.youtube.com/watch?v=JSbj2EJnrJc
 (whole thing, reagan clip)
+results https://github.com/game0ver/erica/raw/master/JSbj2EJnrJc.mp4
 
-https://www.youtube.com/watch?v=wumXDthpNZM
+3. https://www.youtube.com/watch?v=wumXDthpNZM
 (from :32 - end)
+results https://github.com/game0ver/erica/raw/master/wumXDthpNZM.mp4
 
-https://www.youtube.com/watch?v=8t2KNqJdHXo&index=10&list=PL6L-AyuXibhb25weD-ztKmwoGt8INdkkf (and around 16:46 - 17:18 and 19:35 - 20:48)
+4. https://www.youtube.com/watch?v=8t2KNqJdHXo&index=10&list=PL6L-AyuXibhb25weD-ztKmwoGt8INdkkf 
+(and around 16:46 - 17:18 and 19:35 - 20:48)
+results https://github.com/game0ver/erica/raw/master/8t2KNqJdHXo.mp4 https://github.com/game0ver/erica/raw/master/8t2KNqJdHXo-2.mp4
 
-https://www.youtube.com/watch?v=sebIaAiwfqU
+5. https://www.youtube.com/watch?v=sebIaAiwfqU
 (4:05 - 5:10)
-
+results https://github.com/game0ver/erica/raw/master/sebIaAiwfqU.mp4
